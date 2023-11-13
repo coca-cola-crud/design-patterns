@@ -15,6 +15,5 @@ public class Main {
         user.getUser(1);
 
 
-
     }
 }
